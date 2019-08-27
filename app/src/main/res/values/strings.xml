@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AccessibilitySampleApp</string>
+    <string name="accessibility_description">테스트</string>
+</resources>
